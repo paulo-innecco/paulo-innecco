@@ -2,7 +2,7 @@
 - 👀 Eu tenho interesse em Tecnologia e Internet das Coisa (IoT), principalmente Desenvolvimento (DevOps)
 - 🌱 Atualmente estou aprendendo Cloud (AWS e Azure)
 - 💞️ Tenho procurado ajuda no uso do Microsoft Graph API para integrar aplicação ao Microsoft Teams
-
+##
 <div>
   <a href="https://github.com/paulo-innecco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-innecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
