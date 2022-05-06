@@ -3,14 +3,10 @@
 - 🌱 Atualmente estou aprendendo Cloud (AWS e Azure)
 - 💞️ Tenho procurado ajuda no uso do Microsoft Graph API para integrar aplicação ao Microsoft Teams
 
-<!---
-paulo-innecco/paulo-innecco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div>
   <a href="https://github.com/paulo-innecco">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paulo-innecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-innecco&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-innecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-innecco&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pinnecco-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
@@ -19,7 +15,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Pinnecco-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Pinnecco-IOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Pinnecco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 </div>
   
   ##
